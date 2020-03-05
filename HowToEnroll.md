@@ -28,10 +28,3 @@ Please submit your application or any questions regarding this course to **biol4
 
 
 
-<<<<<<< HEAD
-**Registration date**:to be determined. 
-=======
-**Registration date**:to be determined by the department.
->>>>>>> df57c5f94bb69bfef4aa49c62c2c5737a9d9cb32
-
-
