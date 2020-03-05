@@ -23,6 +23,10 @@ Please submit your application or any questions regarding this course to **biol4
 
 **Deadline** for the application is April 2020. Applications submitted after the deadline will be reviewd based on availability. Students will be informed about their acceptance by May.
 
+<<<<<<< HEAD
 **Registration date**:to be determined. 
+=======
+**Registration date**:to be determined by the department.
+>>>>>>> df57c5f94bb69bfef4aa49c62c2c5737a9d9cb32
 
 
