@@ -33,5 +33,7 @@ _**During this course students will have the opportunity to**_
 ## Costs
 Trip costs include lodging, food and ground or boat transportation from Cusco to and from each of the stations for the duration of the course. Some of these places are remote and hard to access. We will try our best to keep costs as low as possible, but you should expect to pay around $2000 CAD for the trip. The cost per student also depends on the currency exchange rate during the summer and the number of students attending (with more students the per individual cost will be reduced with shared food and transportation costs).
 
-In addition, you will have to cover airfare to Cusco. Round trip tickets from Vancouver to Cusco are just under $1000 if tickets are purchased far enough in advance. You are also expected to pay tuition for the course. BIOL 409 is a three credit course and summer registration fees and regular per credit rates apply.
+In addition, students will have to cover airfare to Cusco. Round trip tickets from Vancouver to Cusco are just under $1000 if tickets are purchased far enough in advance. You are also expected to pay tuition for the course. BIOL 409 is a three credit course and summer registration fees and regular per credit rates apply.
+
+
 
