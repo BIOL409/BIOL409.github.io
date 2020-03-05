@@ -8,8 +8,8 @@ comments: true
 In this three-week field course, students will explore topics of tropical diversity, ecology and conservation. You will be introduced to field methods used in ecology as well as the challenges of research in Neotropical forests. Visiting a suite of biological stations from the high Andes to the Amazon basin, students will experience tropical ecosystems first-hand in one of the most spectacular biodiversity hotspots of the world [**Manu Biosphere Reserve**](https://en.wikipedia.org/wiki/Manú_National_Park).
 
 ### When is it?
-Summer 2016.
- **July 4th to July 22nd**
+Summer 2020.
+ **July 18th to August 9th**
 
 
 ### Course description
@@ -31,5 +31,7 @@ _**During this course students will have the opportunity to**_
 * Develop an appreciation for the natural history of tropical ecosystems.
 
 ## Costs
-Trip costs include airfare from Vancouver to Cusco, lodging, food and ground or boat transportation from Cusco to and from each of the stations. We will try our best to keep costs as low as possible, but you should expect to pay around $2000 for the trip, in addition to airfare. Round trip tickets from Vancouver to Cuzco are just under $1000 if tickets are purchased far enough in advance. The cost per student also depends on the currency exchange rate during the summer and the number of students attending (with more students the per individual cost will be reduced with shared food and transportation costs).
+Trip costs include lodging, food and ground or boat transportation from Cusco to and from each of the stations for the duration of the course. Some of these places are remote and hard to access. We will try our best to keep costs as low as possible, but you should expect to pay around $2000 for the trip. The cost per student also depends on the currency exchange rate during the summer and the number of students attending (with more students the per individual cost will be reduced with shared food and transportation costs).
+
+In addition, you will have to cover airfare to Cusco. Round trip tickets from Vancouver to Cusco are just under $1000 if tickets are purchased far enough in advance. You are also expected to pay tuition for the course. BIOL 409 is a three credit course and summer registration fees and regular per credit rates apply.
 
