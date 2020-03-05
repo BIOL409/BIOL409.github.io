@@ -13,7 +13,8 @@ Don't know where is it?, don't worry... here is a map
 
 ![map](http://www.biodiversity.ubc.ca/museum/images/contactmap.jpg)
 
-
 See you all there!
 
-questions email us at biol409course@gmail.com
+Please email us your questions at biol409course@gmail.com
+
+
