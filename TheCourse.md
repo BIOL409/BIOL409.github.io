@@ -15,9 +15,7 @@ Summer 2020.
 ### Course description
 This course is designed to engage students in the formulation and execution of ecological field research studies while gaining an understanding of major themes in tropical ecology and conservation. 
 
-Students will conduct indepedent and group research projects during the course, using data collected at each research station and comparing data across the gradient. Designing and carrying out these projects, as well as analyzing and presenting data, will be important components of student evaluation.
-
-An important component of this field course will be study of the natural history of tropical species. 
+Students will conduct indepedent and group research projects during the course, using data collected at each research station and comparing data across the gradient. Designing and carrying out these projects, as well as analyzing and presenting data, will be important components of student evaluation.An important component of this course will be study of the natural history of tropical species. 
 
 Importantly, students will explore how species and habitats shift along one of the most diverse biological gradients on the planet and consider the various threats and conservation challenges in the region.
 
@@ -25,10 +23,11 @@ _**During this course students will have the opportunity to**_
 
 * Apply basic methods in field ecology.
 * Develop skills in data collection.
+* Develop an appreciation for the natural history of tropical ecosystems.
 * Design and conduct independent and group research projects.
 * Use skills and creativity to address challenges in ecological field research.
 * Work in teams to analyse and present research projects.
-* Develop an appreciation for the natural history of tropical ecosystems.
+
 
 ## Costs
 Trip costs include lodging, food and ground or boat transportation from Cusco to and from each of the stations for the duration of the course. Some of these places are remote and hard to access. We will try our best to keep costs as low as possible, but you should expect to pay around $2000 CAD for the trip. The cost per student also depends on the currency exchange rate during the summer and the number of students attending (with more students the per individual cost will be reduced with shared food and transportation costs).
