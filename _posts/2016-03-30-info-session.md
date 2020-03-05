@@ -7,7 +7,7 @@ date: 2020-03-03
 
 **Remember!!!** 
 our first information session will be on Wednesday April 1st, at 4:00 pm at the Biodiversity Building Room 224 (second floor).
-We will answer your questions about this one-in-life-time-experience. 
+We will answer all your questions about this one-in-life-time-experience. 
 
 Don't know where is it?, don't worry... here is a map 
 
@@ -15,3 +15,5 @@ Don't know where is it?, don't worry... here is a map
 
 
 See you all there!
+
+questions email us at biol409course@gmail.com
