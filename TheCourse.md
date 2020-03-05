@@ -15,9 +15,7 @@ Summer 2020.
 ### Course description
 This course is designed to engage students in the formulation and execution of ecological field research studies while gaining an understanding of major themes in tropical ecology and conservation. 
 
-Students will conduct indepedent and group research projects during the course, using data collected at each research station and comparing data across the gradient. Designing and carrying out these projects, as well as analyzing and presenting data, will be important components of student evaluation.
-
-An important component of this field course will be study of the natural history of tropical species. 
+Students will conduct indepedent and group research projects during the course, using data collected at each research station and comparing data across the gradient. Designing and carrying out these projects, as well as analyzing and presenting data, will be important components of student evaluation.An important component of this course will be study of the natural history of tropical species. 
 
 Importantly, students will explore how species and habitats shift along one of the most diverse biological gradients on the planet and consider the various threats and conservation challenges in the region.
 
