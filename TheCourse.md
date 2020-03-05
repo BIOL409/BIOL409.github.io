@@ -15,9 +15,9 @@ Summer 2020.
 ### Course description
 This course is designed to engage students in the formulation and execution of ecological field research studies while gaining an understanding of major themes in tropical ecology and conservation. 
 
-Students will conduct indepedent and group research projects during the course, using data collected at each station and comparing data across the gradient. Designing and carrying out these projects, as well as analyzing and presenting data, will be important components of student evaluation.
+Students will conduct indepedent and group research projects during the course, using data collected at each research station and comparing data across the gradient. Designing and carrying out these projects, as well as analyzing and presenting data, will be important components of student evaluation.
 
-To emphasize natural history of tropical species, there will be a field identification portion – e.g., species reports – where students are assigned a species of plant or animal. When we encounter this species in the field, the student should be ready to present their species to the rest of the group.
+A important part of this course will be study of the natural history of tropical species. 
 
 Importantly, students will explore how species and habitats shift along one of the most diverse biological gradients on the planet and consider the various threats and conservation challenges in the region.
 
@@ -31,7 +31,7 @@ _**During this course students will have the opportunity to**_
 * Develop an appreciation for the natural history of tropical ecosystems.
 
 ## Costs
-Trip costs include lodging, food and ground or boat transportation from Cusco to and from each of the stations for the duration of the course. Some of these places are remote and hard to access. We will try our best to keep costs as low as possible, but you should expect to pay around $2000 for the trip. The cost per student also depends on the currency exchange rate during the summer and the number of students attending (with more students the per individual cost will be reduced with shared food and transportation costs).
+Trip costs include lodging, food and ground or boat transportation from Cusco to and from each of the stations for the duration of the course. Some of these places are remote and hard to access. We will try our best to keep costs as low as possible, but you should expect to pay around $2000 CAD for the trip. The cost per student also depends on the currency exchange rate during the summer and the number of students attending (with more students the per individual cost will be reduced with shared food and transportation costs).
 
 In addition, you will have to cover airfare to Cusco. Round trip tickets from Vancouver to Cusco are just under $1000 if tickets are purchased far enough in advance. You are also expected to pay tuition for the course. BIOL 409 is a three credit course and summer registration fees and regular per credit rates apply.
 
