@@ -35,3 +35,5 @@ Trip costs include lodging, food and ground or boat transportation from Cusco to
 
 In addition, you will have to cover airfare to Cusco. Round trip tickets from Vancouver to Cusco are just under $1000 if tickets are purchased far enough in advance. You are also expected to pay tuition for the course. BIOL 409 is a three credit course and summer registration fees and regular per credit rates apply.
 
+
+
