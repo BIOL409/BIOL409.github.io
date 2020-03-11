@@ -9,7 +9,7 @@ We want to open a space for those of you that could not attend our first informa
 will cover most of the same material we discussed in the first session, but we will be able to answer more questions, and talk about 
 more course details...
 
-Please feel free to attend. There will be snacks!
+Please feel free to attend.
 
 
 **Remember!!!** 
