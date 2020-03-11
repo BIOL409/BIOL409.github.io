@@ -14,7 +14,7 @@ We will send a list of people and dates to arrange accommodation as a group, so 
 
 | Date | Location | Main activity |
 | :----: | :----: | :-------: |
-| 17-July | Cusco | Instructors arrival |
+| 17-July | Cusco | Instructors arrival to Cusco |
 | 18-July | Cusco | Students arrival + organization |
 | 19-July | Cusco | Students arrival + Flexible day |
 | 20-July | Cusco | Leave for Wayqecha |
