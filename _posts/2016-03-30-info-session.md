@@ -1,20 +1,15 @@
 ---
 layout: post
 title: First Information Session (April 1st)
-subtitle: prepare your questions about the course...
+subtitle: Biol 409 Field course is now cancelled due to COVID-19 concerns......
 date: 2020-03-03
 ---
 
-**Remember!!!** 
-our first information session will be on Wednesday April 1st, at 4:00 pm at the Biodiversity Building Room 224 (second floor).
-We will answer all your questions about this one-in-life-time-experience. 
+We want to thank you all for your interest and enthusiasm to join the 409 field course. We are really sorry to miss this opportunity to bring you all to the tropics.  For those of you who are not graduating, there is a good chance we'll be able to run the course next summer 2021.. 
 
-Don't know where is it?, don't worry... here is a map 
+Please take care, and stay safe in these difficult times.
 
-![map](http://www.biodiversity.ubc.ca/museum/images/contactmap.jpg)
 
-See you all there!
 
-Please email us your questions at biol409course@gmail.com
 
 
